@@ -13,5 +13,8 @@ Use Python3:
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 
+## IF YOU USE WINDOWS:
+if you use windows os and want to run exe becuse of auto close cmd after end task
+you need to open XaNaX.exe as Command Prompt (CMD)
 
 # VIDEO Comming soon...
