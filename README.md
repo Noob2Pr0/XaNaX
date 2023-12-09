@@ -17,4 +17,5 @@ pip install -r requirements.txt
 if you use windows os and want to run exe becuse of auto close cmd after end task
 you need to open XaNaX.exe as Command Prompt (CMD)
 
-# VIDEO Comming soon...
+# VIDEO
+https://www.youtube.com/watch?v=fKccPrNqrYg
